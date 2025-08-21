@@ -52,6 +52,6 @@ I'm a fullstack developer from 🇭🇰 Hong Kong, currently exploring Web3, DAO
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uihctyou&show_icons=true&theme=buefy&hide_title=false&count_privat=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uihctyou&show_icons=true&theme=buefy&count_private=true" />
 </p>
 
