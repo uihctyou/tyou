@@ -39,7 +39,8 @@ I'm a fullstack developer from 🇭🇰 Hong Kong, currently exploring Web3, DAO
 ## 📬 Let’s Connect  
 
 - GitHub: [github.com/Tyou](https://github.com/Tyou)
-- Telegram / Farcaster / Lens: Coming soon...
+- Telegram: @Uihctyou_Jackson
+- Farcaster / Lens: Coming soon...
 
 
 
