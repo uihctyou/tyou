@@ -1,57 +1,66 @@
 <h1 align="center">🫟 Hi, I'm Tyou 👋</h1>
 <p align="center">
-  Fullstack Developer | Web3 Beginner | Open Source Learner  
-  <br/>
+  <b>Fullstack Developer</b> | <b>AI-Augmented Engineer</b> | <b>Web3 Learner</b>
 </p>
+<br/>
+<br/>
 
----
+## 🌱 About Me  
 
-## 🌱 Web3 Newbie in Learning Mode 
+Hi! I'm a fullstack developer from 🇭🇰 Hong Kong.  
 
-I'm a fullstack developer from 🇭🇰 Hong Kong, currently exploring Web3, DAO tools, and decentralized tech.  
-我是一位來自香港的全棧開發者，目前正在學習 Web3、DAO 工具與去中心化應用相關技術。
+Currently, I'm building **Mini-Exchange Architecture** and exploring **Web3, DAO tools, and decentralized apps**.  
 
-> 📣 If you're looking for contributors or collaborators — I'd love to help and learn!  
->  如果你有項目正在尋找貢獻者，我很樂意參與和學習！
+✨ I combine **human expertise + AI-assisted workflows** (GitHub Copilot, ChatGPT) to accelerate development.  
 
+👉 AI helps me **prototype faster and explore solutions**, while I focus on **system architecture, performance, and usability**.  
 
+> 📣 Open to contributions and collaborations — let's build together!  
 
-## 💻 Tech Stack
+<br/>
+<br/>
 
-- 💻 Frontend 前端: `Next.js`, `React`, `React Native (Expo)`
-- 🖥️ Backend 後端: `Spring Boot`, `PostgreSQL`, `Redis`
-- 🧩 Exploring 探索中: Web3 登入機制、DAO 前端面板、智能合約整合應用
+## 💻 Tech Stack  
 
+**Frontend**  
+- `Next.js` · `React` 
 
+**Backend**  
+- `Spring Boot` · `PostgreSQL` · `Redis`  
 
-## 🎯 Current Goals
+**Exploring**  
+- Web3 authentication · DAO dashboards · Smart contract integrations  
 
-- ✅ Become an active contributor to Developer DAO and Gitcoin
-- > 從 Developer DAO / Gitcoin DAO 開始，累積社群貢獻經驗
+**AI Workflow**  
+- GitHub Copilot · ChatGPT (rapid prototyping, code review, knowledge exploration)  
 
-- ✅ Start with small UI tools, doc fixes, or integration tasks
-- > 從小型工具、文件修改、前端整合任務開始實戰
+<br/>
+<br/>
 
-- ✅ Build and launch a Web3 side project
-- > 打造一個實用的 Web3 小工具並發佈上鏈
+## 🎯 Current Goals  
 
+- ✅ Contribute to **Developer DAO** / **Gitcoin**  
+- ✅ Start with **UI tools / doc fixes / integration tasks**  
+- ✅ Build and launch a **Web3 side project** with **AI-assisted workflow**  
 
-## 📬 Let’s Connect  
+> _"Not just coding, but learning how to collaborate in open-source & Web3."_  
 
-- GitHub: [github.com/Tyou](https://github.com/Tyou)
-- Telegram: @Uihctyou_Jackson
-- Farcaster / Lens: Coming soon...
+<br/>
+<br/>
 
+## 📬 Connect with Me  
 
+- GitHub: [github.com/Tyou](https://github.com/Tyou)  
+- Telegram: **@Uihctyou_Jackson**  
+- Farcaster / Lens: _Coming soon..._  
 
-## 💡 Motto & Mindset
+<br/>
+<br/>
+
+## 💡 Motto & Mindset  
 
 > _"The best way to learn is to build together."_  
-> 「最好的學習方式，就是一起動手建造。」
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=uihctyou&show_icons=true&theme=buefy&count_private=true" />
 </p>
-
