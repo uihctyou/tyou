@@ -30,7 +30,7 @@ Currently, I'm building **Mini-Exchange Architecture** and exploring **Web3, DAO
 
 ### 📬 Connect with Me  
 
-- GitHub: [github.com/Tyou](https://github.com/Tyou)  
+- GitHub: [github.com/Tyou](https://github.com/uihctyou)  
 - Telegram: **@Uihctyou_Jackson**
 - Discord: **@uihctyou**
 <br/>
